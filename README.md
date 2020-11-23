@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jeanmenieur/jeanmenieur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an Industrial Engineer and I'm a current Engineering Management Master student.
 
 - 🔭 I’m currently working on a process diagramation project.
